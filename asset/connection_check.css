@@ -1,0 +1,14 @@
+.qrmq_connection-check-success {
+    color: forestgreen;
+    display: none;
+}
+
+.qrmq_connection-check-failure {
+    color: darkred;
+    display: none;
+}
+
+.qrmq_connection-check-result {
+    font-size: 20px;
+    font-weight: bold;
+}
